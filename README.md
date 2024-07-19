@@ -9,3 +9,5 @@ Suggestions should be posted as Issues here. Pull requests are also encouraged.
 This comment was posted by the secrtary-General of the International Telecommunication Union (ITU), the United Nations specialized agency for information and communication technologies (ICTs), driving innovation in ICTs together with 193 Member States and a membership of over 1,000 companies, universities, and international and regional organizations.
 
 “Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.
+
+Report from the ACM - STATEMENT IN SUPPORT OF MANDATORY COMPREHENSIVE DIGITAL ACCESSIBILITY REGULATIONS https://www.acm.org/binaries/content/assets/public-policy/ustpc-mandatory-accessibity-standards-statement.pdf
