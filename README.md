@@ -10,4 +10,4 @@ This comment was posted by the secrtary-General of the International Telecommuni
 
 “Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.
 
-Report from the ACM - STATEMENT IN SUPPORT OF MANDATORY COMPREHENSIVE DIGITAL ACCESSIBILITY REGULATIONS https://www.acm.org/binaries/content/assets/public-policy/ustpc-mandatory-accessibity-standards-statement.pdf
+Report from the ACM - STATEMENT IN SUPPORT OF MANDATORY COMPREHENSIVE DIGITAL ACCESSIBILITY REGULATIONS https://www.acm.org/binaries/content/assets/public-policy/ustpc-mandatory-accessibity-standards-statement.pdf 2024-05-31 takes the approach that the ADA should be expanded, which is the direct opposite of our recommendation for a broader scope.
