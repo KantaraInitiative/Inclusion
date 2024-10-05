@@ -1,10 +1,8 @@
 # Inclusion
 This repository is where feedback for any inclusion issues with the **Digital Identifier Inclusion** and related reports are to be collected and addressed.
 
-Technically, the site is opened when the **Digital Identifier Inclusion** report is published, but the committe approved draft can be viewed with Office 365 at https://1drv.ms/w/s!AsC-jDfJb3S6hKUS-A3qdKg-MHxBlA?e=WW3LQs
-or for a slight less precise format on Google Docs at https://docs.google.com/document/d/1jaY6yNopxCFC_3sBgeddnmM1psVkLmnS/edit?usp=sharing&ouid=109794657323597753486&rtpof=true&sd=true
-
-Suggestions should be posted as Issues here. Pull requests are also encouraged.
+Technically, the site is opened when the **Digital Identifier Inclusion** report is published, but the committe approved draft can be viewed as a PDF (RIUP Digital Identifier Inclusion Final Report)[https://kantarainitiative.org/reports-recommendations/#]
+Suggestions or comments should be posted as Issues here. 
 
 This comment was posted by the secrtary-General of the International Telecommunication Union (ITU), the United Nations specialized agency for information and communication technologies (ICTs), driving innovation in ICTs together with 193 Member States and a membership of over 1,000 companies, universities, and international and regional organizations.
 
