@@ -1,7 +1,7 @@
 # Inclusion
 This repository is where feedback for any inclusion issues with the **Digital Identifier Inclusion** and related reports are to be collected and addressed.
 
-Technically, the site is opened when the **Digital Identifier Inclusion** report is published, but the committe approved draft can be viewed as a PDF (RIUP Digital Identifier Inclusion Final Report)[https://kantarainitiative.org/reports-recommendations/#]
+This site is now officially open as the **Digital Identifier Inclusion** report is published, as the approved draft can be viewed as a PDF (RIUP Digital Identifier Inclusion Final Report)[https://kantarainitiative.org/reports-recommendations/#]
 Suggestions or comments should be posted as Issues here. 
 
 This comment was posted by the secrtary-General of the International Telecommunication Union (ITU), the United Nations specialized agency for information and communication technologies (ICTs), driving innovation in ICTs together with 193 Member States and a membership of over 1,000 companies, universities, and international and regional organizations.
