@@ -1,7 +1,7 @@
 # Inclusion
 This repository is where feedback for any inclusion issues with the **RIUP Digital Identifier Inclusion Final Report** and related reports are to be collected and addressed.
 
-This site is now officially open for comment as of the October 1, 2024 publication of the **Digital Identifier Inclusion** report from Kantara Intitiative's Resilient Identifiers for Underserved Populations Work Group (<a href="https://www.kantarainitiative.org/riup/">RIUP-WG</a>). The approved report can be viewed as a PDF from this Kantara page (<a href="https://kantarainitiative.org/download/riup-digital-identifier-inclusion-final-report/">RIUP Digital Identifier Inclusion Final Report</a>) in [[https://kantarainitiative.org/reports-recommendations/#]
+This site is now officially open for comment as of the October 1, 2024 publication of the **Digital Identifier Inclusion** report from Kantara Intitiative's Resilient Identifiers for Underserved Populations Work Group (<a href="https://www.kantarainitiative.org/riup/">RIUP-WG</a>). The approved report can be viewed as a PDF from this Kantara page (<a href="https://kantarainitiative.org/download/riup-digital-identifier-inclusion-final-report/">RIUP Digital Identifier Inclusion Final Report</a>) in (the Kantara Reports and Recomendations page.)[[https://kantarainitiative.org/reports-recommendations/#]
 
 Suggestions or comments should be <a href="https://github.com/KantaraInitiative/Inclusion/issues">posted as Issues here</a>. 
 
