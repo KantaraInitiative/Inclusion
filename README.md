@@ -3,7 +3,11 @@ This repository is where feedback for any inclusion issues with the **RIUP Digit
 
 This site is now officially open for comment as of the October 1, 2024 publication of the **Digital Identifier Inclusion** report from Kantara Intitiative's Resilient Identifiers for Underserved Populations Work Group (<a href="https://www.kantarainitiative.org/riup/">RIUP-WG</a>). The approved report can be viewed as a PDF from this Kantara page (<a href="https://kantarainitiative.org/download/riup-digital-identifier-inclusion-final-report/">RIUP Digital Identifier Inclusion Final Report</a>) in (the Kantara Reports and Recomendations page.)[https://kantarainitiative.org/reports-recommendations/#]
 
-Suggestions or comments should be <a href="https://github.com/KantaraInitiative/Inclusion/issues">posted as Issues here</a>. 
+Suggestions or comments should be <a href="https://github.com/KantaraInitiative/Inclusion/issues">posted as Issues here</a>.
+
+The current draft of the "Inclusive Purpose and Consent Query work document is maintained on this page will in work group development.
+
+The followin comments have been made by other organizations aobut the need for Inclusion for Goverment approved Identification documentation.
 
 <blockquote>“Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.</blockquote>
 
