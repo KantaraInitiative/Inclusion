@@ -1,4 +1,7 @@
 # Inclusion
+## Digital Public Infrastructure (DPI)
+Both governments and private digital services are expaning to include the large majority of services that used to be handled in-person or by a phone call. This is clearly lowering the cost of providing access to resources that are available physically and well as on-line. The challenge yet to be faced is to ensure the the rush to provide a digital infrastructure is to ensure that all people that have a legitimate right to access the service that are now controlled through a Digital Public Infrastructure (DPI) are not restricted by their ability to navigate the developing digital user experience.
+## Feedback on Kantara Inclusion Recommendations and Reports
 This repository is where feedback for any inclusion issues with the **RIUP Digital Identifier Inclusion Final Report** and related reports are to be collected and addressed.
 
 This site is now officially open for comment as of the October 1, 2024 publication of the **Digital Identifier Inclusion** report from Kantara Intitiative's Resilient Identifiers for Underserved Populations Work Group (<a href="https://www.kantarainitiative.org/riup/">RIUP-WG</a>). The approved report can be viewed as a PDF from this Kantara page (<a href="https://kantarainitiative.org/download/riup-digital-identifier-inclusion-final-report/">RIUP Digital Identifier Inclusion Final Report</a>) in (the Kantara Reports and Recomendations page.)[https://kantarainitiative.org/reports-recommendations/#]
