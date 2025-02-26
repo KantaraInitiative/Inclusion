@@ -1,6 +1,6 @@
 # Inclusion
 ## Digital Public Infrastructure (DPI)
-Both governments and private digital services are expaning to include the large majority of services that used to be handled in-person or by a phone call. This is clearly lowering the cost of providing access to resources that are available physically and well as on-line. The challenge yet to be faced is to ensure the the rush to provide a digital infrastructure is to ensure that all people that have a legitimate right to access the service that are now controlled through a Digital Public Infrastructure (DPI) are not restricted by their ability to navigate the developing digital user experience.
+Both governments and private digital services are expanding to include the large majority of services that used to be handled in-person or by a phone call. This is clearly lowering the cost of providing access to resources that are available physically and well as on-line. The challenge yet to be faced is to ensure that, in the rush to provide a digital infrastructure, all people who have a legitimate right to access the services that are now controlled through a Digital Public Infrastructure (DPI) are not restricted by their ability to navigate the developing digital user experience.
 ## Feedback on Kantara Inclusion Recommendations and Reports
 This repository is where feedback for any inclusion issues with the **RIUP Digital Identifier Inclusion Final Report** and related reports are to be collected and addressed.
 
@@ -8,9 +8,9 @@ This site is now officially open for comment as of the October 1, 2024 publicati
 
 Suggestions or comments should be <a href="https://github.com/KantaraInitiative/Inclusion/issues">posted as Issues here</a>.
 
-The current draft of the "Inclusive Purpose and Consent Query work document is maintained on this page will in work group development.
+The current draft of the "Inclusive Purpose and Consent Query" work document is maintained on this page and is in work group development.
 
-The followin comments have been made by other organizations aobut the need for Inclusion for Goverment approved Identification documentation.
+The following comments have been made by other organizations aobut the need for Inclusion for Goverment approved Identification documentation.
 
 <blockquote>“Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.</blockquote>
 
