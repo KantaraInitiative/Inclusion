@@ -8,7 +8,7 @@ This site is now officially open for comment as of the October 1, 2024 publicati
 
 Suggestions or comments should be <a href="https://github.com/KantaraInitiative/Inclusion/issues">posted as Issues here</a>.
 
-The current draft of the (<a href="https://github.com/KantaraInitiative/Inclusion/blob/main/Inclusive%20Purpose%20Consent%20Query.docx">Inclusive Purpose and Consent Query word document</a>) is maintained on this page as work group development proceeds. This draft recommendation describes a way for a verifier to request information from any holder's device. Only if the holder agrees will any response be sent to the verifier. If the holder does not wish to release information to the verifier, no response is required.
+The current draft of the (<a href="https://github.com/KantaraInitiative/Inclusion/blob/main/Inclusive%20Purpose%20Consent%20Query.docx">Inclusive Purpose and Consent Query word document</a>) is maintained on this page as work group development proceeds. This draft recommendation describes a way for a verifier to request information from any holder's device. Only if the holder agrees will any response be sent to the verifier. If the holder does not wish to release information to the verifier, no response is required. **This draft is in word format and may need to be downloaded to your computer to be read.**
 
 The followin commegnts have been made by other organizations aobut the need for Inclusion for Goverment approved Identification documentation. 
 
