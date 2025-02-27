@@ -12,7 +12,7 @@ The current draft of the (Inclusive Purpose and Consent Query word document)[htt
 
 The followin commegnts have been made by other organizations aobut the need for Inclusion for Goverment approved Identification documentation. 
 
-<blockquote>“Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.</blockquote>
+<“Digital public infrastructure is key everywhere, but especially in developing countries. We look forward to driving multi-stakeholder collaboration around the development and deployment of globally interoperable wallets that help close the gap between the digital ‘haves’ and ‘have nots.'” – Doreen Bogdan-Martin, ITU Secretary-General.
 
 <a href="https://www.linuxfoundation.org/press/itu-linux-foundation-announce-intent-to-launch-the-openwallet-forum">This comment</a> was quoted in a joint press release on May 28, 2024 by the UNICC, Linux Foundation and the Open Wallet Foundationnin support of the development of the Open Wallet Forum. Doreen Bogdan-Martin is the Secretary-General of the International Telecommunication Union (ITU), the United Nations specialized agency for information and communication technologies (ICTs), driving innovation in ICTs together with 193 Member States and a membership of over 1,000 companies, universities, and international and regional organizations.
 
